@@ -1,0 +1,77 @@
+kritsakn@ais.co.th;
+weerasna@ais.co.th;
+nattanon.a@asap-solutions.co.th;
+kitsadee.c@kstonecorp.com;
+natpinai.p@kstonecorp.com;
+mokhaler@ais.co.th
+
+
+PDWSWRKANA8005
+PDWSWRKANA8013
+PDWSWRKANA8012
+PDWSWRKANA8008
+PDWSWRKANA8010
+PDWSWRKANA8004
+PDWSWRKANA8006
+PDWSWRKANA8007
+PDWSWRKANA8009
+PDWSWRKENA8011
+PDWSWRKANA8001
+PDWSWRKANA8002
+PDWSWRKANA8003
+
+dp-das@ais.co.th; dom-support-dwh@ais.co.th;
+
+'Service & Application Activity Management' <dp-saa@ais.co.th>; dp-rbpa@ais.co.th; thitimak@ais.co.th; sukjaivi@ais.co.th; kritkaew@ais.co.th;
+
+
+FBB_GOLF_PREDICTION
+FBB_NBA_PREDICTION
+FBB_SOCCER_PREDICTION
+TBB_GOLF_PREDICTION
+TBB_NBA_PREDICTION
+TBB_SOCCER_PREDICTION
+
+
+FBBPOS_39
+FBBPOS_3BB_28
+
+
+เรียน DBA ครับ
+
+WR26-125155
+
+create external table
+1. prod_ext_tables.prod_db_ncdr_3gp_fbb_golf_prediction
+2. prod_ext_tables.prod_db_ncdr_3gp_fbb_nba_prediction
+3. prod_ext_tables.prod_db_ncdr_3gp_fbb_soccer_prediction
+
+create view 
+1. prod_db_ncdr_3gp_v.fbb_neighbor_isp_prediction_max_rssi
+
+ที่ oneddb ตามเอกสารครับ
+
+Best Regards,
+Mokha Lerthsuwanroj
+
+
+
+
+"Data Governance" <dp-dg@ais.co.th>
+dp-rbpa@ais.co.th; thitimak@ais.co.th; sukjaivi@ais.co.th; siriwanw@ais.co.th;
+
+Request Form New table C360 on Cloud
+
+เรียนทีม Data Platform Governance ครับ
+
+ขอส่ง Request Form สำหรับการนำ Table ใหม่ขึ้น C360 on Cloud ตามไฟล์แนบครับ
+
+Best regards,
+Mokha Lerthsuwanroj
+
+
+
+
+Wholesale -> SAP 
+Retail -> DT
+
